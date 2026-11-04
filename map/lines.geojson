@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"translator":"Xurshid","year":"1921","title":"Cabal and Love"},"geometry":{"type":"LineString","coordinates":[[69.270631169181968,41.31109990584509],[11.586713318166504,50.927891270869402]]}},
+{"type":"Feature","properties":{"translator":"Siddiq","year":"1935","title":"The Mistress of the Inn"},"geometry":{"type":"LineString","coordinates":[[69.236298333748863,41.302789756908652],[11.256999141220113,43.771451317769021]]}},
+{"type":"Feature","properties":{"translator":"Siddiq","year":"1934","title":"My Friend"},"geometry":{"type":"LineString","coordinates":[[69.235577701672611,41.302531769426174],[30.232035956395471,59.929659493817347]]}},
+{"type":"Feature","properties":{"translator":"Siddiq","year":"1935","title":"The Government Inspector"},"geometry":{"type":"LineString","coordinates":[[30.231957698602365,59.929659493817347],[69.23557867604373,41.302540746674282]]}},
+{"type":"Feature","properties":{"translator":"Qodiriy","year":"1935","title":"The Marriage"},"geometry":{"type":"LineString","coordinates":[[69.244814216466324,41.322473877996188],[30.2320826801758,59.929687253029748]]}},
+{"type":"Feature","properties":{"translator":"Qodiriy","year":"1936","title":"The Cherry Orchard"},"geometry":{"type":"LineString","coordinates":[[37.617471370837201,55.750587213982925],[69.244816947612989,41.322446890847992]]}},
+{"type":"Feature","properties":{"translator":"Nosir","year":"1936","title":"The Fountain of Bakhchisarai"},"geometry":{"type":"LineString","coordinates":[[69.249971230046981,41.322499327025866],[33.854588057991663,44.751680072880532]]}},
+{"type":"Feature","properties":{"translator":"Nosir","year":null,"title":"The Demon"},"geometry":{"type":"LineString","coordinates":[[41.97297339334736,45.04483430808552],[69.249966001406051,41.322497940953475]]}},
+{"type":"Feature","properties":{"translator":"Cho'lpon","year":"1934","title":"Hamlet"},"geometry":{"type":"LineString","coordinates":[[69.270426320413407,41.31112186639421],[-0.127658267558964,51.507295972453228]]}},
+{"type":"Feature","properties":{"translator":"Cho'lpon","year":"1936","title":"Boris Gudonov"},"geometry":{"type":"LineString","coordinates":[[30.232004540418483,59.929691430842986],[69.270425606792841,41.311121794297797]]}},
+{"type":"Feature","properties":{"translator":"Cho'lpon","year":"1935","title":"Various"},"geometry":{"type":"LineString","coordinates":[[69.270426253750927,41.311121794297797],[60.621257519542709,41.558277447563349]]}},
+{"type":"Feature","properties":{"translator":"Shayxzoda","year":"1948","title":"Hamlet"},"geometry":{"type":"LineString","coordinates":[[-0.127644614077233,51.507294730493143],[69.285727059637992,41.307734333456629]]}},
+{"type":"Feature","properties":{"translator":"Rizaev","year":"1942","title":"Quiet Flows the Don"},"geometry":{"type":"LineString","coordinates":[[69.285727059637992,41.307736802560399],[41.725653489982342,49.630770482740516]]}},
+{"type":"Feature","properties":{"translator":"Oybek","year":"1942","title":"Courage"},"geometry":{"type":"LineString","coordinates":[[30.231999430985699,59.929687289819476],[69.285722019574152,41.307735050663617]]}},
+{"type":"Feature","properties":{"translator":"Olimjon","year":"1941","title":"How the Steel was Tempered"},"geometry":{"type":"LineString","coordinates":[[69.285721905139923,41.307734964703478],[37.617479667858397,55.750541450826802]]}},
+{"type":"Feature","properties":{"translator":"Mannon Uyg'ur","year":"1940","title":"Othello"},"geometry":{"type":"LineString","coordinates":[[-0.127648504080851,51.507302099654751],[69.28572352328834,41.307735225253971]]}}
+]
+}

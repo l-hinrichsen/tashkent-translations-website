@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"name":"Tashkent","description":"This is the MAIN place.","type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.278708,41.312336]}},
+{"type":"Feature","properties":{"name":"St Petersburg","description":"Many pieces eventually translated to Uzbek were written in St Petersburg because they were both in the USSR. From here, Lermontov's \"Masquerade\" (translated by Oybek); Pushkin's \"Bori Godunov\" (Cho'lpon), \"Eugene Onegin\" (Oybek), \"The Bronze Horseman\" (Maqsud Shayxzoda), \"The Fountain of Bakhchisarai\" (Usman Nasir), and various others (G'afur G'ulom) were produced here.","type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[30.231998,59.929687]}},
+{"type":"Feature","properties":{"name":"Frankfurt","description":"Germany was home to Johann von Goethe, whose \"Faust\" was translated to Uzbek by Oybek.","type":"connected","soviet":false},"geometry":{"type":"Point","coordinates":[8.683012,50.110596]}},
+{"type":"Feature","properties":{"name":"London","description":"Many Uzbek translators had a focus on Shakespeare. Hamlet (translated by Cho'lpon, Maqsud Shayxzoda), Othello (G'afur G'ulom), and Romeo and Juliet (Maqsud Shayxzoda) were prominent. In addition, Maqsud Shayxzoda translated Lord Byron's \"Childe Harold's Pilgrimage,\" written in London.","type":"connected","soviet":false},"geometry":{"type":"Point","coordinates":[-0.127647,51.5073]}},
+{"type":"Feature","properties":{"name":"Stavropol","description":"The location of Lermontov's exile, he wrote \"The Demon\" here, translated to Uzbek by Usman Nasir.","type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[41.972973,45.044834]}},
+{"type":"Feature","properties":{"name":"State Publishing House of Uzbekistan","description":"Modern-day location of the State Publishing House of Uzbekistan, where several translations of works were published and where various translators worked","type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.249966,41.322498]}},
+{"type":"Feature","properties":{"name":"Mushtum Magazine","description":"modern location","type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.270426,41.311122]}},
+{"type":"Feature","properties":{"name":"Guliston magazine","description":"modern location","type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.270632,41.311101]}},
+{"type":"Feature","properties":{"name":"Pravda Vostoka office","description":"modern location","type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.285722,41.307735]}},
+{"type":"Feature","properties":{"name":"Sharq Yulduz magazine","description":null,"type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.235565,41.302535]}},
+{"type":"Feature","properties":{"name":"Bakhchysarai ","description":null,"type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[33.854588,44.75168]}},
+{"type":"Feature","properties":{"name":"Florence","description":null,"type":"connected","soviet":false},"geometry":{"type":"Point","coordinates":[11.256129,43.771484]}},
+{"type":"Feature","properties":{"name":"Jena","description":null,"type":"connected","soviet":false},"geometry":{"type":"Point","coordinates":[11.586724,50.927902]}},
+{"type":"Feature","properties":{"name":"Urgench","description":null,"type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[60.621258,41.558277]}},
+{"type":"Feature","properties":{"name":"Moscow","description":null,"type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[37.617478,55.750541]}},
+{"type":"Feature","properties":{"name":"Uzbek National Academic Drama Theater","description":null,"type":"within","soviet":true},"geometry":{"type":"Point","coordinates":[69.244817,41.322447]}},
+{"type":"Feature","properties":{"name":"Vyoshenskaya","description":null,"type":"connected","soviet":true},"geometry":{"type":"Point","coordinates":[41.725663,49.630768]}}
+]
+}
