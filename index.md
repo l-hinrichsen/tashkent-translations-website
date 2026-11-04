@@ -10,7 +10,4 @@ A spatial history of your place and the places it was tied to.
 <iframe src="map/" width="100%" height="520"
 style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
-## The Essay
-Paste your essay here in paragraphs.
-
-![will this work](images/tashkent1.jpg)
+![A man reading an Uzbek text, published with an image of Stalin.](images/tashkent1.jpg)
