@@ -12,3 +12,5 @@ style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 ## The Essay
 Paste your essay here in paragraphs.
+
+![will this work](images/tashkent1.jpg)
