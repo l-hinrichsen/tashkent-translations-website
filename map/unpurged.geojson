@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "unpurged",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "translator": "Xurshid",
+        "year": "1921",
+        "title": "Cabal and Love"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [69.270631169181968, 41.31109990584509],
+          [11.586713318166504, 50.927891270869402]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "translator": "Shayxzoda",
+        "year": "",
+        "title": "The Bronze Horseman"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [30.231998, 59.929687],
+          [69.235565, 41.302535]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "translator": "Oybek",
+        "year": "",
+        "title": "Faust"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8.683012, 50.110596],
+          [69.235565, 41.302535]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "translator": "Oybek",
+        "year": "1936",
+        "title": "Eugene Onegin"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [30.231998, 59.929687],
+          [69.235565, 41.302535]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "translator": "Oybek",
+        "year": "",
+        "title": "Masquerade"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [30.231998, 59.929687],
+          [69.235565, 41.302535]
+        ]
+      }
+    }
+  ]
+}

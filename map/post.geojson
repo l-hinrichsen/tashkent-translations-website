@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "post",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"translator":"Shayxzoda","year":"1948","title":"Hamlet"},"geometry":{"type":"LineString","coordinates":[[-0.127644614077233,51.507294730493143],[69.285727059637992,41.307734333456629]]}},
+{"type":"Feature","properties":{"translator":"Rizaev","year":"1942","title":"Quiet Flows the Don"},"geometry":{"type":"LineString","coordinates":[[69.285727059637992,41.307736802560399],[41.725653489982342,49.630770482740516]]}},
+{"type":"Feature","properties":{"translator":"Oybek","year":"1942","title":"Courage"},"geometry":{"type":"LineString","coordinates":[[30.231999430985699,59.929687289819476],[69.285722019574152,41.307735050663617]]}},
+{"type":"Feature","properties":{"translator":"Olimjon","year":"1941","title":"How the Steel was Tempered"},"geometry":{"type":"LineString","coordinates":[[69.285721905139923,41.307734964703478],[37.617479667858397,55.750541450826802]]}},
+{"type":"Feature","properties":{"translator":"Mannon Uyg'ur","year":"1940","title":"Othello"},"geometry":{"type":"LineString","coordinates":[[-0.127648504080851,51.507302099654751],[69.28572352328834,41.307735225253971]]}}
+]
+}
