@@ -13,6 +13,7 @@ The map interestingly shows how the translation of a single work can carry diffe
 This map is unable to analyze an exhaustive list of translations published during this timeframe. With the Soviet Union’s emphasis on promoting intellectual and artistic culture, translations of novels, plays, and operas were abundant in a way that is not well preserved. The destruction of potentially valuable translations during the time in question is, by no mistake, due to the Great Terror itself. Of the surviving publications, credibly accessing information about a larger sample is not possible without consulting physical records or drawing much more heavily on sources only available in the Uzbek language.
 
 [^1] Chatterjee, Choi, et al. Russia’s Long Twentieth Century. Abingdon, Oxon, and New York, NY: Routledge, 2016.
+[^2] Quénu, Benjamin. "From Russian to Uzbek: Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule." 2024.
 
 ## Sources
 
