@@ -43,7 +43,7 @@ distinction. Cho’lpon’s 1936 translation of Pushkin’s  Boris Godunov  is c
 while Oybek’s  Eugene Onegin  , dated in the same year and originating from the same city, is 
 unpurged. Qodiriy, who translated Chekhov’s  The Cherry Orchard  from Moscow, was also 
 arrested under Stalin. These points complicate the performative nature of politics during the 
-Great Terror. Soviet propaganda, including the 1933 poster  The Typewriter of Capitalism  , 
+Great Terror. Soviet propaganda, including the 1933 poster *The Typewriter of Capitalism*, 
 associated Western writing with capitalist influence. This provides context for understanding the 
 political suspicion surrounding literary activity originating abroad. However, the map 
 complicates any assumption that translating literature from abroad automatically made someone 
@@ -51,6 +51,8 @@ a target. Outcomes ranging from international works published after the Great Te
 arrests of writers translating works from within the Soviet Union suggest that the ideological 
 crimes committed during this period were much more complex than they were presented to 
 citizens. 
+
+<br><img src='../images/tashkent2.jpg' width='220' alt='*The Typewriter of Capitalism*'>
 
 The post-purge lines demonstrate that these connections did not disappear after the Great 
 Terror. London remains present through Shayxzoda’s 1948 translation of  Hamlet  and Mannon 
