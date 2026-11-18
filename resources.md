@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: The Resources
 ---
 {% include nav.html %}
 Sources, readings, and tools that helped with this project.
