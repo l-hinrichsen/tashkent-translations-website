@@ -12,7 +12,7 @@
       "type": "Feature",
       "properties": {
         "translator": "Xurshid",
-        "year": "1921",
+        "Date": "1921",
         "title": "Cabal and Love"
       },
       "geometry": {
@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "translator": "Shayxzoda",
-        "year": "",
+        "Date": "",
         "title": "The Bronze Horseman"
       },
       "geometry": {
@@ -42,7 +42,7 @@
       "type": "Feature",
       "properties": {
         "translator": "Oybek",
-        "year": "",
+        "Date": "",
         "title": "Faust"
       },
       "geometry": {
@@ -57,7 +57,7 @@
       "type": "Feature",
       "properties": {
         "translator": "Oybek",
-        "year": "1936",
+        "Date": "1936",
         "title": "Eugene Onegin"
       },
       "geometry": {
@@ -72,7 +72,7 @@
       "type": "Feature",
       "properties": {
         "translator": "Oybek",
-        "year": "",
+        "Date": "",
         "title": "Masquerade"
       },
       "geometry": {
