@@ -3,8 +3,8 @@ layout: default
 ---
 {% include nav.html %}
 
-# Tashkent and Its World
-A spatial history of Tashkent and the places it was tied to.
+# Tashkent's Translations
+A spatial history of Tashkent and the places it was tied to during the time of the Great Terror.
 
 ## The Map
 <iframe src="map/" width="100%" height="520"
