@@ -65,7 +65,8 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="timeslider.js"></script>
-  <script> 
+  <script>
+    
     const map = L.map("map").setView([41,69],4);
     L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}",{maxZoom:16,attribution:"Tiles &copy; Esri"}).addTo(map);
 
