@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Translated in Tashkent
+title: Translated in Terror: Tashkent’s Spatial History Through Translations 
 ---
 {% include nav.html %}
 
