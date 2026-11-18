@@ -52,7 +52,7 @@ arrests of writers translating works from within the Soviet Union suggest that t
 crimes committed during this period were much more complex than they were presented to 
 citizens. 
 
-<br><img src='../images/tashkent2.jpg' width='220' alt='*The Typewriter of Capitalism*'>
+![The Typewriter of Capitalism.](images/tashkent2.jpg)
 
 The post-purge lines demonstrate that these connections did not disappear after the Great 
 Terror. London remains present through Shayxzoda’s 1948 translation of  Hamlet  and Mannon 
