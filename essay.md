@@ -67,10 +67,10 @@ institutional explanation for this continuity. He describes the increased superv
 through the Writer’s Union of Uzbekistan, which is indicated on the map, and examines how 
 increased local and central authorities shaped the conditions of production. Translation fulfilled 
 the Soviet goals of cultural modernization, but fits within institutions monitoring its ideological 
-output (Quénu 2024). Samantha Sherry’s study of translation under Stalin places the map of 
+output.[^4] Samantha Sherry’s study of translation under Stalin places the map of 
 Tashkent’s translations within a broader Soviet context. Her research examines how foreign 
 literature remained desirable to Soviet readers, even during heightened focus on limiting foreign 
-ideas. Sherry’s work focuses on translation into Russian in the more traditionally European cities 
+ideas.[^5] Sherry’s work focuses on translation into Russian in the more traditionally European cities 
 of the Soviet Union, and her ideas align with the results of Tashkent’s changed spatial 
 connections shown on the map. 
 
@@ -78,7 +78,7 @@ Cho’lpon’s own account adds a dimension that the map cannot convey. In a spe
 delivered at a Writer’s Meeting in 1937, preserved in the Central State Archive of Uzbekistan 
 and recently digitized, he discusses his translation work and the difficulty he encountered. He 
 describes collaboration with other Uzbek translators and a frequent need to use Russian 
-intermediary translations in producing  Hamlet  (Cho’lpon 1937). The connection is represented 
+intermediary translations in producing  Hamlet.[^2] The connection is represented 
 by a line connecting London and Tashkent directly, but cannot depict the complete route of every 
 translation with certainty. The theatrical production of Cho’lpon’s  Hamlet  in Tashkent in 1935 
 further demonstrates that translation connected international literature to both print publications 
@@ -110,17 +110,15 @@ linguistic boundaries, even through changes in the governing of that network.
 
 [^1]: Chatterjee, Choi, et al. Russia’s Long Twentieth Century. Abingdon, Oxon, and New York, NY: Routledge, 2016.
 
-[^2]: Quénu, Benjamin. "From Russian to Uzbek: Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule." 2024.
-
-[^3]: Sample resource.
-
-Bibliography
-Cho‘lpon, Abdulhamid. “Nutq (1937)” [Speech (1937)]. Prepared by Sherali Turdiev (2012). 
+[^2] Cho‘lpon, Abdulhamid. “Nutq (1937)” [Speech (1937)]. Prepared by Sherali Turdiev (2012). 
 Ziyouz.uz  ,  https://ziyouz.uz/matbuot/jadid-matbuoti/cholpon-nutq-1937/ 
-"Oʻzbekiston milliy ensiklopediyasi" (2005).  National  Encyclopedia of Uzbekistan  . Tashkent: 
-National Encyclopedia of Uzbekistan State Scientific Publishing House. 
-Quénu, Benjamin (2024). “From Russian to Uzbek (1928–53): Unequal Cultural Transfers and 
-Institutional Supervision under Stalinist Rule” in  Translating Russian Literature in the 
-Global Context.  Open Book Publishers. 
-Sherry, S. (2015).  Discourses of Regulation and Resistance: Censoring Translation in the the 
-Stalin and Khrushchev Soviet Era  . Edinburgh University Press. 
+
+[^3] "Oʻzbekiston milliy ensiklopediyasi" (2005).  National  Encyclopedia of Uzbekistan  . Tashkent: 
+National Encyclopedia of Uzbekistan State Scientific Publishing House.
+
+[^4]: Quénu, Benjamin. "From Russian to Uzbek: Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule." 2024.
+
+[^5]: Sherry, S. (2015).  Discourses of Regulation and Resistance: Censoring Translation in the the 
+Stalin and Khrushchev Soviet Era  . Edinburgh University Press.
+
+Bibliography 
