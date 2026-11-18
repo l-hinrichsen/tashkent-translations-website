@@ -106,6 +106,13 @@ linguistic boundaries, even through changes in the governing of that network.
 
 [^2]: Quénu, Benjamin. "From Russian to Uzbek: Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule." 2024.
 
-## Sources
-
-The information in the map comes from larger discussions about translations to Uzbek. I often reference the article “Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule” by Benjamin Quénu for specific translations that took place around the time of the Great Terror, and information on which translators were associated with which institutions within Tashkent. Information about their fates comes both from this same article and from their respective sections in the Nation of Uzbekistan Encyclopedia (Uzbek: Oʻzbekiston Milliy Ensiklopediyasi). The encyclopedia was adopted from the Uzbek Soviet Encyclopedia, and reflects primarily on Uzbekistan between 1971 and 1980 – with the memory of Stalin in relatively recent memory. Images from Princeton.
+Bibliography
+Cho‘lpon, Abdulhamid. “Nutq (1937)” [Speech (1937)]. Prepared by Sherali Turdiev (2012). 
+Ziyouz.uz  ,  https://ziyouz.uz/matbuot/jadid-matbuoti/cholpon-nutq-1937/ 
+"Oʻzbekiston milliy ensiklopediyasi" (2005).  National  Encyclopedia of Uzbekistan  . Tashkent: 
+National Encyclopedia of Uzbekistan State Scientific Publishing House. 
+Quénu, Benjamin (2024). “From Russian to Uzbek (1928–53): Unequal Cultural Transfers and 
+Institutional Supervision under Stalinist Rule” in  Translating Russian Literature in the 
+Global Context.  Open Book Publishers. 
+Sherry, S. (2015).  Discourses of Regulation and Resistance: Censoring Translation in the the 
+Stalin and Khrushchev Soviet Era  . Edinburgh University Press. 
