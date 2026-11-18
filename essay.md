@@ -122,4 +122,6 @@ National Encyclopedia of Uzbekistan State Scientific Publishing House.
 [^5]: Sherry, S. (2015).  Discourses of Regulation and Resistance: Censoring Translation in the the 
 Stalin and Khrushchev Soviet Era  . Edinburgh University Press.
 
-Bibliography 
+Image Resources
+Man Reading in Uzbek - Princeton University
+The Typewriter of Capitalism - The Hoover Institution
