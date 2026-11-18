@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Translated in Terror \: Tashkent’s Spatial History Through Translations 
+title: The Essay 
 ---
 {% include nav.html %}
 
+## Translated in Terror: Tashkent’s Spatial History Through Translations 
 In the Soviet Union, an Uzbek citizen was surrounded by the arts. When not at work in 
 the republic’s capital, Tashkent, he or she might pick up a copy of  Mushtum, a magazine 
 publishing translations of various literature into Uzbek for citizens to comfortably read. Perhaps 
