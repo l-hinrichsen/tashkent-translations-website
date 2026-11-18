@@ -83,6 +83,10 @@ further demonstrates that translation connected international literature to both
 and performance. A single work could connect Tashkent to an English playwright, 
 Russian-language intermediaries, and Uzbek translators. 
 
+> This is a sample quote.
+>
+> Sample Quote, *Where it came from* (Year), page.[^3]
+
 The map fails to provide an exhaustive list of translations produced during this period. 
 Surviving digital records offer a partial view, while the destruction of publications and disruption 
 of translator’s careers leave obvious gaps in the corpus. A fuller account would require 
@@ -105,6 +109,8 @@ linguistic boundaries, even through changes in the governing of that network.
 [^1]: Chatterjee, Choi, et al. Russia’s Long Twentieth Century. Abingdon, Oxon, and New York, NY: Routledge, 2016.
 
 [^2]: Quénu, Benjamin. "From Russian to Uzbek: Unequal Cultural Transfers and Institutional Supervision under Stalinist Rule." 2024.
+
+[^3]: Sample resource.
 
 Bibliography
 Cho‘lpon, Abdulhamid. “Nutq (1937)” [Speech (1937)]. Prepared by Sherali Turdiev (2012). 
